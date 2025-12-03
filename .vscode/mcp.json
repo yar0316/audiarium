@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"spec-workflow-audiarium": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"@pimzino/spec-workflow-mcp@latest",
+				"C:\\Users\\yutar\\workspace\\audiarium"
+			]
+		}
+	},
+	"inputs": []
+}

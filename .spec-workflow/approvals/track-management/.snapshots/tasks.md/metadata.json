@@ -1,0 +1,14 @@
+{
+  "filePath": ".spec-workflow/specs/track-management/tasks.md",
+  "currentVersion": 1,
+  "snapshots": [
+    {
+      "version": 1,
+      "filename": "snapshot-001.json",
+      "timestamp": "2025-12-03T11:24:39.912Z",
+      "trigger": "initial",
+      "approvalId": "approval_1764761079833_eqf10tl60",
+      "approvalTitle": "楽曲管理 - タスク分割"
+    }
+  ]
+}
